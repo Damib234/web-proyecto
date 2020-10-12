@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#fondo{
+  background: rgba(252, 249, 249, 0.384);
+}
+
+.navbar{
+    height: 80px;
+}
+
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+    .img{
+    width: 500px;
+    padding: 20px;
+    
+  }
+
+  #carouselExampleInterval{
+    text-align: center;
+    margin: auto;
+    width: 900px;
+    height: 480px;
+    margin-bottom: 10px;
+
+   #footer{
+    background: rgb(0, 0, 0);
+    color: white;
+    height: 200px;
+    text-align: justify;
+
+    .container{
+      text-align: justify;
+      }
+     
+  }
+  .footer .footer-bottom {
+    background: grey;
+    color: #686868;
+    height: 100px;
+    text-align: center;
+  }
+
+  .rounded {
+    padding-top: 30px;
+  }
+ 
+  hr{
+    margin: auto;
+    width: 300px;
+    padding-bottom: 5px;
+  }
+
+  .col{
+    text-align: center;
+    padding-top: 50px;
+    
+    
+  }
+   
+   .col h5:hover{
+    padding-top: 5px;
+    cursor: pointer;
+    color: rgb(32, 32, 253);
+  }
+
+  .texto{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    text-align: justify;
+  }
+
+  #Subtitulo{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+     margin-top: -450px;
+  }
