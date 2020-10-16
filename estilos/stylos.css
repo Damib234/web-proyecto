@@ -72,8 +72,11 @@ h1{
   .footer{
     text-align: center;
     color: white;
+    
   }
 
-  .container{
-    padding-bottom: 3px;
+  .card-columns{
+    margin-top: -150px;
   }
+
+  
